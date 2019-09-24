@@ -4,3 +4,7 @@ Temp/*
 Logs/*
 Packages/*
 *.csproj
+.vs/
+*.sln
+obj/
+uDesktopDuplication.log
